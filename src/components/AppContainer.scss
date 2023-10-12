@@ -1,0 +1,10 @@
+.app-container-wrap {
+  width: 80%;
+  @media (max-width: 767px) {
+    width: 90%;
+  }
+}
+
+.rounded-icon {
+  cursor: url('/images/invertedCursor.svg'), auto;
+}
